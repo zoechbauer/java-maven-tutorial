@@ -9,6 +9,10 @@
   </parent>
   <artifactId>business</artifactId>
   <dependencies>
+    <dependency>
+      <groupId>com.in28minutes</groupId>
+      <artifactId>data</artifactId>
+    </dependency>
     <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
     <dependency>
       <groupId>org.springframework</groupId>
